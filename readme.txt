@@ -5,3 +5,5 @@ creating a new branch is quicki is no
 Creating a new branch is quick AND simple.
 create
 mine branch
+
+create stash
